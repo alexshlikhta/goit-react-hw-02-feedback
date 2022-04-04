@@ -1,6 +1,7 @@
-#custom files
-*.history
-*.DS_store
+# custom files
+.history
+.husky
+.vscode
 
 # Logs
 logs
